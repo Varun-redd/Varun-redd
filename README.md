@@ -23,9 +23,17 @@ Here are some ideas to get you started:
   </div>
   <div>
 --->
+<div>
+<div align = center>
+  <h1 align = left>
+  Hey There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    , I am Varun Reddy
+  </h1>
+</div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="250"/>
 </div>
 
 <div id="badges" align = "center">
@@ -38,21 +46,19 @@ Here are some ideas to get you started:
 </div>
 <div align = center>
   <a href =  "https://github.com/Varun-redd">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views"/>
  </div>
   
-<div align = center>
-  <h1 align = left>
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    , I am Varun Reddy
-  </h1>
 </div>
+  
+---
   
 <div align="left">
   <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="400" height="280"/ align = right>
   <div>
+    <h3>
     ### :man_technologist: About Me :
+    </h3>
   </div>
   <div>
   <!--I am a Python Developer  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30">  from India.--->
@@ -75,36 +81,42 @@ Here are some ideas to get you started:
 
 ---
 <div>
+  <div>
+  <h3>
   ### :hammer_and_wrench: Technical Skills :
+  </h3>
+  </div>
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
-    <img style="width: 30%; flex: 1; height: 50%;" src="https://t3c2u2r2.stackpathcdn.com/main_images/cprog.png" title="C Programming" alt="C"/>&nbsp;
+      <!-- https://bscholarly.com/wp-content/uploads/2022/03/Differences-Between-C-AND-C__-768x451.jpg --->
+      <!-- https://qubit.institute/wp-content/uploads/2022/05/C-Programming.jpg -->
+    <img style="width: 20%; flex: 1; height: 50%;" src="https://bscholarly.com/wp-content/uploads/2022/03/Differences-Between-C-AND-C__-768x451.jpg" title="C Programming" alt="C"/>&nbsp;
     </svg>
-    <img style="width: 30%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" title="Java Programming" alt="Java"/>&nbsp;
-    <img style="width: 30%; flex: 1; height: 100%;" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="Python Programming" alt="Python"/>&nbsp;
+    <img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" title="Java Programming" alt="Java"/>&nbsp;
+    <img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="Python Programming" alt="Python"/>&nbsp;
+    <img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="Numpy" alt="Numpy"/>&nbsp;
+    <img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://pandas.pydata.org/static/img/pandas_white.svg" title="Pandas" alt="Pandas"/>&nbsp;
+    <img style="width: 30%; flex: 1; height: 50%;" src="https://matplotlib.org/_static/logo_dark.svg" title="MatplotLib" alt="Matplotlib"/>&nbsp;
+    <img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://www.fullstackpython.com/img/logos/scipy.png" title="SciPy" alt="SciPy"/>&nbsp; 
   </div>
+  <p></p>
+  <p></p>
   
   <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
     <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
-    <img style="width: 30%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="Numpy" alt="Numpy"/>&nbsp;
-    </svg>
-    <img style="width: 30%; flex: 1; height: 50%; fill="white"; " src="https://pandas.pydata.org/static/img/pandas_white.svg" title="Pandas" alt="Pandas"/>&nbsp;
-    <img style="width: 30%; flex: 1; height: 100%;" src="https://matplotlib.org/_static/logo_dark.svg" title="MatplotLib" alt="Matplotlib"/>&nbsp;
-  </div>
-  
-  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
-    <img style="width: 30%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="SciPy" alt="SciPy"/>&nbsp;
-    </svg>
-    <img style="width: 30%; flex: 1; height: 50%; fill="white"; " src="https://upload.wikimedia.org/wikipedia/de/0/0e/Django-logo.svg" title="Django Framework" alt="Django"/>&nbsp;
-    <img style="width: 30%; flex: 1; height: 100%;" src="https://matplotlib.org/_static/logo_dark.svg" title="MatplotLib" alt="Matplotlib"/>&nbsp;
-  </div>
-  
-  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
-    <img style="width: 30%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" title="HTML" alt="HTML"/>&nbsp;
-    </svg>
-    <img style="width: 30%; flex: 1; height: 50%; fill="white"; " src="hhttps://upload.vectorlogo.zone/logos/w3_css/images/8deb9a0e-aad0-47a2-a284-b7f98c9fa48c.svg" title="Django Framework" alt="Django"/>&nbsp;
-    <img style="width: 30%; flex: 1; height: 100%;" src="https://matplotlib.org/_static/logo_dark.svg" title="MatplotLib" alt="Matplotlib"/>&nbsp;
+    <img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://upload.wikimedia.org/wikipedia/de/0/0e/Django-logo.svg" title="Django Framework" alt="Django"/>&nbsp;
+      </svg>
+    <img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="MYSQL Database" alt="MYSQL"/>&nbsp;
+    <img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" title="HTML" alt="HTML"/>&nbsp;
+    <!-- https://lyften.com/uploads/posts/css3-in-all-its-glory.png -->
+    <img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://lyften.com/uploads/posts/css3-in-all-its-glory.png" title="CSS" alt="CSS"/>&nbsp;
+    <p>
+    </p>
+    <!-- https://akus.b-cdn.net/en/images/articles/learn-javascript.jpg -->
+    <!-- https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg -->
+    <img style="width: 22%; flex: 1; height: 50%;" src="https://akus.b-cdn.net/en/images/articles/learn-javascript.jpg" title="JavaScript" alt="JavaScript"/>&nbsp;
+    <!--
+    <img style="width: 22%; flex: 1; height: 50%;" src="https://brandeps.com/logo-download/M/Microsoft-Office-logo-vector-01.svg" title="MS Office" alt="MS Office"/>&nbsp;
+-->
   </div>
   </div>
