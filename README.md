@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     ### :man_technologist: About Me :
   </div>
   <div>
-  I am a Python Developer  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30">  from India.
+  <!--I am a Python Developer  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30">  from India.--->
   </div>
   <div>
     
