@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </div>
   
 <div align="left">
-  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="400" height="300"/ align = right>
+  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="400" height="280"/ align = right>
   <div>
     ### :man_technologist: About Me :
   </div>
@@ -66,17 +66,45 @@ Here are some ideas to get you started:
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
     
 - 💬  Ask me about Python Development
+    
+- 👯 I’m looking to collaborate on Python Projects
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/varun-reddy1204/) / dvarunreddy123@gmail.com
   </div>
 </div>
-  
-  
-  
+
 ---
 <div>
   ### :hammer_and_wrench: Technical Skills :
-  <div>
-    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg" title="C Programming" alt="C" width="33%" height="100"/>&nbsp;
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+    <img style="width: 30%; flex: 1; height: 50%;" src="https://t3c2u2r2.stackpathcdn.com/main_images/cprog.png" title="C Programming" alt="C"/>&nbsp;
+    </svg>
+    <img style="width: 30%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" title="Java Programming" alt="Java"/>&nbsp;
+    <img style="width: 30%; flex: 1; height: 100%;" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="Python Programming" alt="Python"/>&nbsp;
+  </div>
+  
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+    <img style="width: 30%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="Numpy" alt="Numpy"/>&nbsp;
+    </svg>
+    <img style="width: 30%; flex: 1; height: 50%; fill="white"; " src="https://pandas.pydata.org/static/img/pandas_white.svg" title="Pandas" alt="Pandas"/>&nbsp;
+    <img style="width: 30%; flex: 1; height: 100%;" src="https://matplotlib.org/_static/logo_dark.svg" title="MatplotLib" alt="Matplotlib"/>&nbsp;
+  </div>
+  
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+    <img style="width: 30%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="SciPy" alt="SciPy"/>&nbsp;
+    </svg>
+    <img style="width: 30%; flex: 1; height: 50%; fill="white"; " src="https://upload.wikimedia.org/wikipedia/de/0/0e/Django-logo.svg" title="Django Framework" alt="Django"/>&nbsp;
+    <img style="width: 30%; flex: 1; height: 100%;" src="https://matplotlib.org/_static/logo_dark.svg" title="MatplotLib" alt="Matplotlib"/>&nbsp;
+  </div>
+  
+  <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+    <img style="width: 30%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" title="HTML" alt="HTML"/>&nbsp;
+    </svg>
+    <img style="width: 30%; flex: 1; height: 50%; fill="white"; " src="hhttps://upload.vectorlogo.zone/logos/w3_css/images/8deb9a0e-aad0-47a2-a284-b7f98c9fa48c.svg" title="Django Framework" alt="Django"/>&nbsp;
+    <img style="width: 30%; flex: 1; height: 100%;" src="https://matplotlib.org/_static/logo_dark.svg" title="MatplotLib" alt="Matplotlib"/>&nbsp;
   </div>
   </div>
