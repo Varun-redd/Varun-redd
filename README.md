@@ -120,3 +120,9 @@ Here are some ideas to get you started:
 -->
   </div>
   </div>
+
+  <div>
+    <h3>
+  ### :hammer_and_wrench: Soft Skills :
+  </h3>
+    <img style = "width: 100%; felx = 1; height = 50%;" src ="https://pixlr.com/x/#editor" title = "Soft Skills" alt = "Soft Skills"/>&nbsp; 
