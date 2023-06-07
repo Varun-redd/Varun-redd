@@ -120,11 +120,17 @@ Here are some ideas to get you started:
 -->
   </div>
   </div>
-
+  
+---
+  
   <div>
     <h3>
   ### :hammer_and_wrench: Soft Skills :
   </h3>
-    <img style = "width: 50%%; felx = 1; height = 50%;" src ="https://github.com/Varun-redd/Varun-redd/blob/main/Logo's/image-removebg-preview.png" title = "Soft Skills" alt = "Soft Skills"/>&nbsp; 
-    <img style = "width: 25%%; felx = 2; height = 25%;" src ="https://github.com/Varun-redd/Varun-redd/blob/main/Logo's/Image%202.png" title = "Soft Skills" alt = "Soft Skills"/>&nbsp; 
+    <img style = "width: 30%; felx = 1; height = 100%;" src ="https://github.com/Varun-redd/Varun-redd/blob/main/Logo's/image-removebg-preview.png" title = "Soft Skills" alt = "Soft Skills"/>&nbsp; 
+    <img style = "width: 30%; felx = 1; height = 100%;" src ="https://github.com/Varun-redd/Varun-redd/blob/main/Logo's/Image%202.png" title = "Soft Skills" alt = "Soft Skills"/>&nbsp; 
   </div>
+  
+  ---
+  
+  
