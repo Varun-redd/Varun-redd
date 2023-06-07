@@ -125,4 +125,4 @@ Here are some ideas to get you started:
     <h3>
   ### :hammer_and_wrench: Soft Skills :
   </h3>
-    <img style = "width: 100%; felx = 1; height = 50%;" src ="https://pixlr.com/x/#editor" title = "Soft Skills" alt = "Soft Skills"/>&nbsp; 
+    <img style = "width: 75%; felx = 1; height = 50%;" src ="https://github.com/Varun-redd/Varun-redd/blob/main/Logos/image%20(1).png" title = "Soft Skills" alt = "Soft Skills"/>&nbsp; 
