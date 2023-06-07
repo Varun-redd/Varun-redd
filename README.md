@@ -125,4 +125,6 @@ Here are some ideas to get you started:
     <h3>
   ### :hammer_and_wrench: Soft Skills :
   </h3>
-    <img style = "width: 50%%; felx = 1; height = 50%;" src ="https://github.com/Varun-redd/Varun-redd/blob/main/Logos/image__2_-removebg-preview.png" title = "Soft Skills" alt = "Soft Skills"/>&nbsp; 
+    <img style = "width: 50%%; felx = 1; height = 50%;" src ="https://github.com/Varun-redd/Varun-redd/blob/main/Logos/image-removebg-preview.png" title = "Soft Skills" alt = "Soft Skills"/>&nbsp; 
+    <img style = "width: 50%%; felx = 1; height = 50%;" src ="" title = "Soft Skills" alt = "Soft Skills"/>&nbsp; 
+  </div>
