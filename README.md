@@ -97,7 +97,7 @@ Here are some ideas to get you started:
     <a href = "https://numpy.org/"><img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="Numpy" alt="Numpy"/>&nbsp;</a>
     <a href = "https://pandas.pydata.org/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://pandas.pydata.org/static/img/pandas_white.svg" title="Pandas" alt="Pandas"/>&nbsp;</a>
     <a href = "https://matplotlib.org/"><img style="width: 30%; flex: 1; height: 50%;" src="https://matplotlib.org/_static/logo_dark.svg" title="MatplotLib" alt="Matplotlib"/>&nbsp;</a>
-    <a href = "https://scipy.org/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://www.fullstackpython.com/img/logos/scipy.png" title="SciPy" alt="SciPy"/>&nbsp; </a>
+    <a href = "https://scipy.org/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; background-color: white;" src="https://www.fullstackpython.com/img/logos/scipy.png" title="SciPy" alt="SciPy"/>&nbsp; </a>
   </div>
   <p></p>
   <p></p>
@@ -107,7 +107,7 @@ Here are some ideas to get you started:
     <a href = "https://www.djangoproject.com/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://upload.wikimedia.org/wikipedia/de/0/0e/Django-logo.svg" title="Django Framework" alt="Django"/>&nbsp;</a>
       </svg>
     <a href = "https://www.mysql.com/"><img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="MYSQL Database" alt="MYSQL"/>&nbsp;</a>
-    <a href = "https://html.com/"style="display: inline-block; background-color: white; padding: 5px;"><img style="width: 22%; flex: 1; height: 50%; fill="white";" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" title="HTML" alt="HTML"/>&nbsp;</a>
+    <a href = "https://html.com/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; background-color: white;" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" title="HTML" alt="HTML"/>&nbsp;</a>
     <!-- https://lyften.com/uploads/posts/css3-in-all-its-glory.png -->
     <a href = "https://www.w3.org/Style/CSS/Overview.en.html"><img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://lyften.com/uploads/posts/css3-in-all-its-glory.png" title="CSS" alt="CSS"/>&nbsp;</a>
     <p>
@@ -121,6 +121,5 @@ Here are some ideas to get you started:
   </div>
   </div>
   
----
   
   
