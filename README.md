@@ -97,7 +97,9 @@ Here are some ideas to get you started:
     <a href = "https://numpy.org/"><img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="Numpy" alt="Numpy"/>&nbsp;</a>
     <a href = "https://pandas.pydata.org/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://pandas.pydata.org/static/img/pandas_white.svg" title="Pandas" alt="Pandas"/>&nbsp;</a>
     <a href = "https://matplotlib.org/"><img style="width: 30%; flex: 1; height: 50%;" src="https://matplotlib.org/_static/logo_dark.svg" title="MatplotLib" alt="Matplotlib"/>&nbsp;</a>
-    <a href = "https://scipy.org/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; background-color: white;" src="https://www.fullstackpython.com/img/logos/scipy.png" title="SciPy" alt="SciPy"/>&nbsp; </a>
+    <a href = "https://scipy.org/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; background-color: white;" src="https://docs.scipy.org/doc/_static/img/scipy_org_logo.png" title="SciPy" alt="SciPy"/>&nbsp; </a>
+  <!--https://www.fullstackpython.com/img/logos/scipy.png --->
+    <!-- https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png --->
   </div>
   <p></p>
   <p></p>
