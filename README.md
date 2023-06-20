@@ -43,6 +43,10 @@ Here are some ideas to get you started:
   <a href = "https://github.com/Varun-redd" align = "center">
     <img src="https://img.shields.io/badge/-github-lightgrey?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+  <a href = "https://flowcv.com/resume/2lkou3e6e5" align = "center">
+    <img src="https://img.shields.io/badge/Resume-orange?style=for-the-badge&logo=Resume&logoColor=white" alt = "Resume"
+      </a>
+    
 </div>
 <div align = center>
   <a href =  "https://github.com/Varun-redd">
