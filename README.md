@@ -96,7 +96,7 @@ Here are some ideas to get you started:
       <!-- https://qubit.institute/wp-content/uploads/2022/05/C-Programming.jpg -->
     <a href = "https://en.wikipedia.org/wiki/C_(programming_language)"><img style="width: 20%; flex: 1; height: 50%;" src="https://bscholarly.com/wp-content/uploads/2022/03/Differences-Between-C-AND-C__-768x451.jpg" title="C Programming" alt="C"/>&nbsp;</a>
     </svg>
-    <a href = "https://www.java.com/en/" ><img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" title="Java Programming" alt="Java"/>&nbsp;</a>
+    <a href = "https://dev.java/" ><img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" title="Java Programming" alt="Java"/>&nbsp;</a>
     <a href = "https://www.python.org/"><img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" title="Python Programming" alt="Python"/>&nbsp;</a>
     <a href = "https://numpy.org/"><img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="Numpy" alt="Numpy"/>&nbsp;</a>
     <a href = "https://pandas.pydata.org/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://pandas.pydata.org/static/img/pandas_white.svg" title="Pandas" alt="Pandas"/>&nbsp;</a>
@@ -113,8 +113,8 @@ Here are some ideas to get you started:
     <a href = "https://www.djangoproject.com/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://upload.wikimedia.org/wikipedia/de/0/0e/Django-logo.svg" title="Django Framework" alt="Django"/>&nbsp;</a>
       </svg>
     <a href = "https://www.mysql.com/"><img style="width: 22%; flex: 1; height: 50%;" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" title="MYSQL Database" alt="MYSQL"/>&nbsp;</a>
-    <a href = "https://html.com/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; background-color: white;" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" title="HTML" alt="HTML"/>&nbsp;</a>
-    <!-- https://lyften.com/uploads/posts/css3-in-all-its-glory.png -->
+    <a href = "https://html.com/"><img style="width: 22%; flex: 1; height: 50%; fill="white"; background-color: white;" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220630132824/HTML-Full-Form.jpg" title="HTML" alt="HTML"/>&nbsp;</a>
+    <!-- https://lyften.com/uploads/posts/css3-in-all-its-glory.png, https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220630132824/HTML-Full-Form.jpg-->
     <a href = "https://www.w3.org/Style/CSS/Overview.en.html"><img style="width: 22%; flex: 1; height: 50%; fill="white"; " src="https://lyften.com/uploads/posts/css3-in-all-its-glory.png" title="CSS" alt="CSS"/>&nbsp;</a>
     <p>
     </p>
@@ -124,6 +124,7 @@ Here are some ideas to get you started:
     <!--
     <img style="width: 22%; flex: 1; height: 50%;" src="https://brandeps.com/logo-download/M/Microsoft-Office-logo-vector-01.svg" title="MS Office" alt="MS Office"/>&nbsp;
 -->
+  <a href = "https://en.wikipedia.org/wiki/Linux" ><img style="width: 22%; flex: 1; height: 50%;" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*Qqqd7UsfFDPL7WXh.jpeg" title="Linux" alt="Linux"/>&nbsp;</a>
   </div>
   </div>
   
