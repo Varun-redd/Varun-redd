@@ -1,0 +1,33 @@
+name: Random Daily Commits
+
+on:
+  schedule:
+    - cron: '0 5 * * *'   # Runs once daily at 5 AM UTC (~10:30 AM IST)
+  workflow_dispatch:
+
+jobs:
+  random-commits:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Random Commit Generator
+        run: |
+          git config user.name "Varun Reddy"
+          git config user.email "varunreddy@eclatsoleil.pro"
+
+          # Generate a random number between 2 and 8
+          NUM_COMMITS=$(( (RANDOM % 7) + 2 ))
+          echo "Today's commits: $NUM_COMMITS"
+
+          for ((i=1; i<=NUM_COMMITS; i++))
+          do
+            echo "Update #$i on $(date)" >> daily_log.txt
+            git add daily_log.txt
+            git commit -m "Automated update #$i on $(date)"
+            
+            # Add a small delay (random 10–60 seconds) between commits
+            sleep $(( (RANDOM % 50) + 10 ))
+          done
+
+          git push
