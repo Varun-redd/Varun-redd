@@ -35,7 +35,7 @@
 - 🌱 Exploring **AWS Data Services (S3, Redshift, Glue, QuickSight)**  
 - 💬 Ask me about **Data Visualization, Power BI, or Python Automation**  
 - ⚡ Fun fact: I love finding hidden trends in messy datasets!  
-- 📫 Reach me: [varunreddy@eclatsoleil.pro](mailto:varunreddy@eclatsoleil.pro)  
+- 📫 Reach me: [demaguvarunreddy511@gmail.com](mailto:demaguvarunreddy511@gmail.com)  
 
 ---
 
