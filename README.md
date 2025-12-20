@@ -85,7 +85,7 @@
 - 🧠 **Power BI Automation:** Reduced report generation time by 40%  
 - ⭐ **5-Star Python Programmer – HackerRank**  
 - ⚡ **Advanced Coding – Triplebyte Level 4**
-- Built multiple end-to-end analytics dashboards using SQL, Python, and Power BI
+- **Built multiple end-to-end analytics dashboards using SQL, Python, and Power BI**
 
 ---
 
