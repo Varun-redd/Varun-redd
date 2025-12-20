@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hey There 👋, I'm Varun Reddy</h1>
   <h3>Data Analyst | Power BI | Python Automation | SQL | AWS</h3>
+  <h10>Building end-to-end analytics projects with business insights</h10>
 </div>
 
 <div align="center">
@@ -83,7 +84,8 @@
 - 🥇 **Top Team Award – Mahindra Comviva** for outstanding support in data automation  
 - 🧠 **Power BI Automation:** Reduced report generation time by 40%  
 - ⭐ **5-Star Python Programmer – HackerRank**  
-- ⚡ **Advanced Coding – Triplebyte Level 4**  
+- ⚡ **Advanced Coding – Triplebyte Level 4**
+- Built multiple end-to-end analytics dashboards using SQL, Python, and Power BI
 
 ---
 
