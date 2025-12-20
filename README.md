@@ -61,11 +61,11 @@
 ### 🚀 Featured Projects  
 
 #### 📊 [Sales & Customer Analytics Dashboard – SQL | Python | Power BI]()
--Built an end-to-end analytics solution using SQL, Python, and Power BI
--Performed RFM-based customer segmentation to identify high-value customers
--Designed Executive Overview and Customer Insights dashboards
--Analyzed sales performance by category, region, and product
--Published reproducible analytics workflow with clean data pipelines
+- Built an end-to-end analytics solution using SQL, Python, and Power BI.
+- Performed RFM-based customer segmentation to identify high-value customers.
+- Designed Executive Overview and Customer Insights dashboards.
+- Analyzed sales performance by category, region, and product.
+- Published reproducible analytics workflow with clean data pipelines.
 
 #### 🧩 [Adventure Works Sales Dashboard – Power BI](https://github.com/Varun-redd/Adventure-Works-Sales-Dashboard)
 - Built interactive Power BI dashboards analyzing sales performance, profitability, and customer trends.  
