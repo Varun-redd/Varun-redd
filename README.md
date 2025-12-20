@@ -67,7 +67,7 @@
 - Analyzed sales performance by category, region, and product.
 - Published reproducible analytics workflow with clean data pipelines.
 
-#### 🧩 [Adventure Works Sales Dashboard – Power BI](https://github.com/Varun-redd/Adventure-Works-Sales-Dashboard)
+#### 🧩 [Adventure Works Sales Dashboard – Power BI](https://github.com/Varun-redd/Adventure-Works-Sales-Dashboard.git)
 - Built interactive Power BI dashboards analyzing sales performance, profitability, and customer trends.  
 - Improved revenue analysis efficiency by 30%.  
 - Published reports to Power BI Service with regional and product-based KPIs.  
