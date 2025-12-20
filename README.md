@@ -60,7 +60,7 @@
 
 ### 🚀 Featured Projects  
 
-#### 📊 [Sales & Customer Analytics Dashboard – SQL | Python | Power BI]()
+#### 📊 [Sales & Customer Analytics Dashboard – SQL | Python | Power BI](https://github.com/Varun-redd/sales-customer-analytics.git)
 - Built an end-to-end analytics solution using SQL, Python, and Power BI.
 - Performed RFM-based customer segmentation to identify high-value customers.
 - Designed Executive Overview and Customer Insights dashboards.
