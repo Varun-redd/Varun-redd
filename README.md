@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varun-redd&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Varun-redd&style=flat&color=blue&base=100000" alt="Profile Views"/>
 </div>
 
 ---
@@ -30,11 +30,11 @@
 
 <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="320" align="right"/>
 
-- 🔭 **Currently working at:** Mahindra Comviva as a **Product Engineer (Data Analytics)**  
+- 🔭 **Currently working at:** Deloitte(Uber-EXT) as a **Data Analyst**  
 - 🧩 Experienced in **SQL, Power BI, Python, and ETL** — transforming data into actionable insights  
 - ⚙️ Building **automated dashboards** and optimizing datasets handling **10,000+ records/min**  
 - 🌱 Exploring **AWS Data Services (S3, Redshift, Glue, QuickSight)**  
-- 💬 Ask me about **Data Visualization, Power BI, or Python Automation**  
+- 💬 Ask me about **Data Analysis, Data Visualization, Power BI, or Python Automation**  
 - ⚡ Fun fact: I love finding hidden trends in messy datasets!  
 - 📫 Reach me: [demaguvarunreddy511@gmail.com](mailto:demaguvarunreddy511@gmail.com)  
 
